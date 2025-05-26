@@ -8,10 +8,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Rone01
- */
 public class CadastroUsuarios extends javax.swing.JDialog {
 
     public CadastroUsuarios(java.awt.Frame parent, boolean modal) {

@@ -10,11 +10,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-
-/**
- *
- * @author laura
- */
 public class Login extends javax.swing.JFrame {
 
     public Login() {

@@ -4,10 +4,6 @@
  */
 package view;
 
-/**
- *
- * @author Rone01
- */
 public class TelaDescricao extends javax.swing.JFrame {
 
     private String descricao;

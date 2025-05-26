@@ -5,11 +5,6 @@ package view;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-
-/**
- *
- * @author laura
- */
 public class Menu extends javax.swing.JFrame {
 
     private model.Usuario usuario;
