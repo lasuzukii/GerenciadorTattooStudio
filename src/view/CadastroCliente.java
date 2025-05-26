@@ -8,10 +8,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Rone01
- */
 public class CadastroCliente extends javax.swing.JDialog {
 
     public CadastroCliente(java.awt.Frame parent, boolean modal) {

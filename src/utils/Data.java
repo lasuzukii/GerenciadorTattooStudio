@@ -8,10 +8,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- *
- * @author Rone01
- */
 public class Data {
     public static String converterDataUs(String dataString){
         String formatoEntrada = "dd/MM/yyyy";

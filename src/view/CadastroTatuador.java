@@ -8,10 +8,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Rone01
- */
 public class CadastroTatuador extends javax.swing.JDialog {
 
     public CadastroTatuador(java.awt.Frame parent, boolean modal) {
